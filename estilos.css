@@ -1,0 +1,21 @@
+*{
+	font-family: Sen, sans-serif;
+	font-weight: 100;
+}
+
+.container{
+	background: lightblue;
+}
+
+.listas{
+	background:#DD969C;
+}
+
+.productos {
+	background: lightblue;
+}
+
+.lista-productos {
+	background: #1ec6ff;
+
+}
